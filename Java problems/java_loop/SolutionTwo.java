@@ -3,7 +3,7 @@ package java_loop;
 import java.util.*;
 
 //Second solution (Using bit shiffting)
-class Solution {
+class SolutionTwo {
     public static void main(String[] argh) {
         Scanner in = new Scanner(System.in);
         int t = in.nextInt();
